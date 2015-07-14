@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #CCCCCC;
+  /*background: rgba(100,100,100,.2)*/
+}
+
+title, h1, h2 {
+  background: #CCCCCC;
+}
+
+h1 {
+  color: blue;
+  font-family: 'Raleway', sans-serif;
+  transition: all 1s linear;
+}
+
+h1:hover {
+  color: red;
+  font-weight: bold;
+}
+h2 {
+  color: green;
+  font-family: monospace, sans-serif;
+
+}
+h3 {
+  color: red;
+  margin-left: 10px;
+}
+p {
+  color: black;
+  font-weight: bold;
+  margin-left: 10px;
+}
+ul {
+  color: black;
+  font-weight: bold;
+}
+
+section {
+  background: red;
+  padding: 30px;
+  margin: 50px 300px;
+}
