@@ -2,12 +2,10 @@
 
 body {
   font-family: 'Raleway', sans-serif;
-  background: #CCCCCC;
   /*background: rgba(100,100,100,.2)*/
 }
 
 title, h1, h2 {
-  background: #CCCCCC;
 }
 
 h1 {
