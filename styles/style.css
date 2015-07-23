@@ -28,7 +28,7 @@ h3 {
   margin-left: 10px;
 }
 p {
-  color: black;
+  color: white;
   font-weight: bold;
   margin-left: 10px;
 }
@@ -38,7 +38,40 @@ ul {
 }
 
 section {
-  background: red;
   padding: 30px;
   margin: 50px 300px;
+  background: red;
 }
+
+#card-2 {
+  margin-top: 105px;
+  margin-bottom: 105px;
+}
+
+#card-3 {
+  margin-top: 105px;
+  margin-bottom: 105px;
+}
+
+#section-card-2 {
+  background: blue;
+}
+
+#section-card-1 {
+  background: red;
+}
+
+#section-card-3 {
+  background: red;
+}
+/*#one {
+  padding: 30px;
+  margin: 50px 300px;
+  background: red;
+}
+
+#two {
+  padding: 30px;
+  margin: 10px 300px;
+  background: blue;
+}*/
